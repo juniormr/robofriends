@@ -1,0 +1,12 @@
+ @font-face {
+    font-family: 'Aldo Open';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Aldo Open'), url('Aldo_Open.woff') format('woff');
+    }
+
+    h1{
+    	font-family: 'Aldo Open';
+    	font-weight: 200;
+    	color: #0ccac4;
+    }
